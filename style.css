@@ -10,6 +10,12 @@ body {
   margin: 20px 0;
 }
 
+svg {
+  max-width: 800px;
+  width: 100% important;
+  margin: 0 auto;
+}
+
 #buddies {
   animation: buddy 3s ease infinite;
   transform-origin: bottom;
